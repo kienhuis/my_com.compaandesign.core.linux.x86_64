@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Core libraries Compaan Linux x86
+Bundle-SymbolicName: com.compaandesign.core.linux.x86
+Bundle-Version: 1.6.0.qualifier
+Fragment-Host: com.compaandesign.core;bundle-version="1.6.0"
+Automatic-Module-Name: com.compaandesign.core.linux.x86
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: Compaan Design BV
+Eclipse-BundleShape: dir
+
