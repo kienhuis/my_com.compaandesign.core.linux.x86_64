@@ -8,4 +8,20 @@ Automatic-Module-Name: com.compaandesign.core.linux.x86_64
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-Vendor: Compaan Design BV
 Eclipse-BundleShape: dir
+Bundle-ClassPath: lib/db.jar
+Export-Package: com.sleepycat.asm,
+ com.sleepycat.bind,
+ com.sleepycat.bind.serial,
+ com.sleepycat.bind.tuple,
+ com.sleepycat.collections,
+ com.sleepycat.compat,
+ com.sleepycat.db,
+ com.sleepycat.db.internal,
+ com.sleepycat.persist,
+ com.sleepycat.persist.evolve,
+ com.sleepycat.persist.impl,
+ com.sleepycat.persist.model,
+ com.sleepycat.persist.raw,
+ com.sleepycat.util,
+ com.sleepycat.util.keyrange
 
